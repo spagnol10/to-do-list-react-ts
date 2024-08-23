@@ -1,4 +1,4 @@
-   - Imge this project:![Print do projeto](./public/print.png)
+![Print do projeto](./public/print.png)
 
 # Link to project: https://to-do-list-react-ts-xi.vercel.app/ 
 
